@@ -1,0 +1,15 @@
+.cuadrado{
+    height: 30%;
+    width: 30%;
+    padding: 3px;
+}
+
+.botonCuadro{
+    border-radius: 10px;
+    height: 100%;
+    border-color: black;
+    width: 100%;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    font-size: 2pc;
+}
