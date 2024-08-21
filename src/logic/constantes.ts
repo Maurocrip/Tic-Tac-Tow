@@ -9,7 +9,7 @@ export const COMBINACIONES = [
     [2, 4, 6],
 ];
 
-export const TIPO = {
-    X: "X",
-    O: "O",
+export enum TIPO {
+    X = "X",
+    O = "O",
 };
